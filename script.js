@@ -1,3 +1,9 @@
-const a = 221;
-let b = a-5;
-console.log(b, a)
+const borainfo = {
+  name:"Bora",
+  age:"30",
+  Designer:true
+}
+
+
+// const borainfo = ["Bora","30","Designer","UX Engineer",true];
+console.log(borainfo.name);
