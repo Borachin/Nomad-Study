@@ -1,9 +1,6 @@
-const borainfo = {
-  name:"Bora",
-  age:"30",
-  Designer:true
+function sayHello(potato) {
+  console.log("Hello!",potato);
 }
 
-
-// const borainfo = ["Bora","30","Designer","UX Engineer",true];
-console.log(borainfo.name);
+sayHello("Bora");
+console.log();
